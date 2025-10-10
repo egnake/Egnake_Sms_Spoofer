@@ -36,5 +36,7 @@ Basit, öğretici ve etik bir Twilio SMS gönderici iskeleti. Amaç: güvenli an
 ## Kurulum
 1. Repo'yu klonla:
    ```bash
-   git clone https://github.com/<kullanici>/<repo>.git
-   cd <repo>
+   git clone https://github.com/egnake/Egnake_Sms_Spoofer.git
+   cd Egnake_Sms_Spoofer
+   python sms_spoof.py
+   python sms_spoof_v2.py
