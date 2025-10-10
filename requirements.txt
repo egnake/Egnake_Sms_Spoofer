@@ -1,0 +1,8 @@
+# Temel kütüphaneler (PyPI)
+twilio>=8.0.0
+requests>=2.28.0
+click>=8.0.0
+dpkt>=1.9.6
+
+# SCTP desteği (sistem paketleri gerekebilir)
+pysctp>=0.6.0
