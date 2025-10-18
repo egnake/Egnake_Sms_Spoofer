@@ -44,7 +44,7 @@ def read_targets_from_file(file_path):
 def main_menu():
     """Kullanıcıya menü sun."""
     while True:
-        print("\nHackAIGC SMS Spoofing Aracı - Menü:")
+        print("\EGNAKE SMS Spoofing Aracı - Menü:")
         print("1. Tek mesaj gönder")
         print("2. Dosyadan toplu mesaj gönder")
         print("3. Çıkış")
